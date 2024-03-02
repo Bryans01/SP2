@@ -1,1 +1,21 @@
-{"about": {"me": "", "server": "", "company": "A highly dedicated bare-metal Pool committed to the spirit of Ubuntu, in it to grow with and support our community."}, "social": {"ada_handle": "", "github_handle": "", "twitch_handle": "", "discord_handle": "", "patreon_handle": "", "twitter_handle": "@PoolArtemis", "youtube_handle": "", "facebook_handle": "", "linkedin_handle": "", "telegram_handle": ""}, "company": {"addr": "", "city": "Taunton", "name": "Artemis Stakepool", "vat_id": "", "country": "England", "company_id": ""}, "location": "Taunton, England", "url_png_logo": "https://i.ibb.co/djWww8T/ARTMS.png", "url_png_icon_64x64": "https://i.ibb.co/JKsq2bj/ARTMS2.png"}
+{
+    "info": {
+        "url_png_icon_64x64": "https://i.ibb.co/JKsq2bj/ARTMS2.png",
+        "url_png_logo": "https://i.ibb.co/djWww8T/ARTMS.png",
+        "location": "Taunton, England",
+        "social": {
+            "twitter_handle": "@PoolArtemis",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "Verification": ""
+        },
+        "about": {
+            "me": "A highly dedicated bare-metal Pool committed to the spirit of Ubuntu, in it to grow with and support our community.",
+            "server": ""
+        }
+    }
+}
